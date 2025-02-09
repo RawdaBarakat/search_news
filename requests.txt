@@ -1,0 +1,13 @@
+selenium
+pandas
+requests
+beautifulsoup4
+pymongo
+streamlit
+sumy
+google-generativeai
+langchain-openai
+arabic-reshaper
+python-bidi
+groq
+fpdf
